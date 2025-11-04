@@ -195,7 +195,7 @@ You can't acquire your way out of a retention crisis. Fix why customers leave be
 
 ---
 
-*Want to see the interactive dashboard? [https://app.powerbi.com/groups/me/reports/fdc5131c-a993-4d2c-aace-afd86313b5c6/4a0b90c8fb7989d6f96b?experience=power-bi&clientSideAuth=0]*
+*Want to see the interactive dashboard? https://app.powerbi.com/groups/me/reports/fdc5131c-a993-4d2c-aace-afd86313b5c6/4a0b90c8fb7989d6f96b?experience=power-bi&clientSideAuth=0*
 
 ---
 
