@@ -1,94 +1,207 @@
-# Customers-subscription-and-Transaction-overview
+# Customer Subscription & Transaction Analysis: When Growth Masks a Retention Crisis
 
-Your fastest-growing tier has also become your biggest risk for losing customers.
+## Executive Summary
 
-In the last 18 months, churn has lowered your lifetime value by 20%. I reviewed three years of subscription data from Nordic markets and found insights that could help you rethink your growth strategy. Here’s what I discovered.
+Your fastest-growing tier has become your biggest retention risk. Over 18 months, accelerating churn reduced lifetime value by 20%. After analyzing three years of Nordic market subscription data, I uncovered patterns that demand immediate strategic shifts.
 
-The MAX tier leads in revenue, with a total of $ 438,000, representing an 81% year-over-year growth. It has 4,378 customers and continues to grow steadily.
+---
 
-Most companies would see these results as a reason to celebrate and push harder to get new customers.
+## Revenue Performance by Tier
 
-However, it's essential to examine customer retention more closely.
+| Tier  | Total Revenue | YoY Growth | Active Customers | Churn Rate | YoY Churn Increase | Lost Revenue |
+|-------|---------------|------------|------------------|------------|--------------------|--------------|
+| MAX   | $438,000      | +81.0%     | 4,378            | 9.4%       | +95.6%             | $49,900      |
+| PRO   | $244,000      | +65.8%     | 5,499            | 14.0%      | +42.7%             | $35,900      |
+| BASIC | $48,900       | -7.5%      | 6,034            | 15.8%      | +83.9%             | $24,100      |
 
-The churn rate has reached 9.4%, which is a 95.6% increase from last year. This has caused $49.9K in lost revenue.
+**Total Lost Revenue Across All Tiers: $109,900**
 
-You are still adding new customers faster than you lose them, but that lead is shrinking quickly.
+---
 
-The PRO tier is experiencing growth, with $244,000 in revenue (up 65.8% year-over-year) and a customer count of 5,499, the highest to date. There are strong mid-year revenue peaks, suggesting a hidden success pattern. If you can identify and repeat this pattern in other periods, you could turn these seasonal wins into steady gains all year.
+## The Critical Pattern Everyone's Missing
 
-However, churn has increased by 42.7% since last year, resulting in $35.9K in lost revenue.
+Most leadership teams would celebrate MAX's 81% revenue growth and push harder on acquisition. That's exactly the wrong move.
 
-This isn’t just about losing numbers. It means high-value customers are leaving.
+Here's why: While MAX revenue climbs, churn increased 95.6% year-over-year. You're winning customers faster than you're losing them... for now. But that margin shrinks every quarter.
 
-The BASIC tier has the most customers, at 6,034, but generates only $48.9K in revenue, which is the lowest among all tiers. Revenue is down 7.5% from last year.
+### Revenue Per Customer: The Real Story
+```
+BASIC: $48,900 ÷ 6,034 customers = $8.10 per customer
+PRO:   $244,000 ÷ 5,499 customers = $44.37 per customer
+MAX:   $438,000 ÷ 4,378 customers = $100.05 per customer
+```
 
-The churn rate for BASIC is 15.8%, up 83.9% from last year, resulting in $24.1K in lost revenue.
+You have a **12x difference** in customer value between BASIC and MAX, yet your acquisition strategy treats them identically.
 
-You have the most customers in this tier, but they generate the least revenue and are leaving at a faster rate than before.
+---
 
-Here’s the pattern that could change everything.
+## Acquisition Channel Performance
 
-All three tiers have the same problem: churn is rising everywhere.
+### Customer Acquisition by Channel & Tier
 
-BASIC churn is up 83.9%, PRO churn is up 42.7%, and MAX churn is up 95.6%.
+| Channel     | BASIC Customers | PRO Customers | MAX Customers | Total Customers |
+|-------------|-----------------|---------------|---------------|-----------------|
+| Google Ads  | ~1,400-1,900    | ~1,400-1,900  | ~1,400-1,900  | ~4,200-5,700    |
+| Facebook    | ~1,200-1,900    | ~1,200-1,900  | ~1,200-1,900  | ~3,600-5,700    |
 
-When churn is rising in every tier, it’s not just a product issue. It’s a sign from the market. What are customers getting from competitors that we’re missing? This could indicate unmet needs that extend beyond product tweaks. Something changed between 2020 and 2022 that’s affecting retention across the board.
+You're spending roughly the same amount to acquire customers across all tiers. Same channels, same targeting, similar volume.
 
-Maybe competitors have improved. Maybe customer expectations have shifted. Maybe your onboarding process needs work.
+But look at what you get:
 
-However, regardless of the cause, increasing spending on Google Ads and Facebook, your primary acquisition channels, won’t solve the problem.
+- BASIC: 6,034 customers → $48.9K revenue
+- MAX: 4,378 customers → $438K revenue
 
-What the acquisition data reveals
+That's a **9x revenue difference** with similar acquisition costs. Your CAC is tier-agnostic, but your customer value definitely isn't.
 
-You spend about the same amount to acquire customers in each tier:
+---
 
-* Google Ads brings in between 1,400 and 1,900 customers per tier.
-* Facebook brings in between 1,200 and 1,900 customers per tier.
+## The Hidden Success Pattern in PRO Tier
 
-You use the same channels and get similar customer numbers, but the results are very different.
+PRO shows strong mid-year revenue peaks followed by late-year declines. This isn't random noise... it's a signal.
 
-BASIC has 6,034 customers and brings in $48.9K in revenue. MAX has 4,378 customers and generates $ 438,000.
+**Potential causes:**
+- Seasonal buying behavior you haven't mapped
+- Campaign timing that works (then stops)
+- Product features that resonate at specific times
+- Competitive pressure that eases mid-year
 
-That’s a ninefold difference in revenue per customer.
+If you can identify what drives those peaks and replicate it across other quarters, you could transform seasonal wins into consistent year-round performance.
 
-Your acquisition strategy treats all tiers equally, rather than tailoring your approach to each one.
+---
 
-That’s why BASIC is filled with low-value customers, while MAX struggles to keep its high-value ones.
+## Churn Acceleration: The Real Crisis
 
-The key business decision hidden in this dashboard
+### Year-over-Year Churn Rate Increases
+```
+BASIC: +83.9% increase in churn
+PRO:   +42.7% increase in churn  
+MAX:   +95.6% increase in churn
+```
 
-Stop treating growth and retention as separate issues.
+When churn accelerates across every tier simultaneously, it's not a product problem. It's a market signal.
 
-MAX is growing at 81%, but churn is up 95.6%. If this continues, growth could stall in the next 12 to 18 months.
+**What changed between 2020 and 2022?**
 
-PRO has the most customers, but with a 14% churn rate, you’re constantly trying to refill a leaky bucket.
+Something shifted in the competitive landscape, customer expectations, or your onboarding experience. This kind of universal churn spike suggests:
 
-BASIC has the most customers, but the worst unit economics. Each new customer here costs more to support than they generate in revenue.
+- Competitors launched better alternatives
+- Market expectations evolved faster than your product
+- Your onboarding fails to deliver early value
+- Pricing no longer matches perceived value
 
-Here’s what I would do if I were running this business.
+Throwing more money at Google Ads and Facebook won't fix this. You can't out-acquire a retention problem.
 
-First, pause new BASIC customer acquisition until you fix the unit economics or adjust pricing. High volume without profit only adds extra cost.
+---
 
-Focus on keeping MAX customers before churn slows your growth. Interview customers to find out why premium users are leaving. Ask questions like, "Which first-30-day moments are failing our premium users?" Use these answers to guide your interviews and spot possible onboarding issues. Improving early experiences can significantly impact MAX customer retention.
+## Unit Economics Reality Check
 
-Next, look at PRO’s mid-year revenue peaks and late-year declines. This pattern may indicate seasonal trends or campaign timing issues that can be addressed to improve performance.
+### The BASIC Tier Problem
 
-Additionally, consider running acquisition campaigns tailored to each tier. Don’t send the same Google Ads and Facebook traffic to all three tiers and expect the same results.
+6,034 customers generating $48.9K revenue means each customer brings in roughly $8. 
 
+If your customer support costs more than $8 per customer annually (and it probably does), you're losing money on volume. Every new BASIC customer added without fixing unit economics just scales your losses.
 
+### The MAX Tier Paradox
 
-This is what strong analytics should look like.
+$100 per customer should be profitable, but you're churning premium users at an accelerating rate. Lose a MAX customer and you need to acquire 12 BASIC customers just to replace that revenue.
 
-It’s not just about showing what happened.
+Current trajectory: Growth rate (81%) vs. Churn increase (95.6%). If this continues, MAX tier growth stalls within 12-18 months.
 
-It’s about revealing patterns that help predict what’s coming next.
+---
 
-I built this dashboard in Power BI, with automated daily updates from subscription databases, transaction logs, and marketing attribution data.
+## Strategic Recommendations
 
-Link for Interaction: 
+### 1. Pause BASIC Acquisition (Temporarily)
 
-Now executives can see churn trends alongside growth metrics and make decisions before small problems become costly.
+Stop filling a tier with negative unit economics. Either fix the cost structure or adjust pricing before adding more volume.
 
-That’s the difference between reporting what happened and predicting what’s next.
+**Action items:**
+- Calculate true cost-to-serve for BASIC customers
+- Test price increases with new cohorts
+- Reduce feature access to lower support burden
+- Or accept BASIC as a loss-leader and measure conversion to PRO
 
-♻️ Repost if you agree: The best metric to watch is the one that's accelerating in the wrong direction.
+### 2. MAX Retention War Room (Immediate)
+
+Your premium tier can't sustain 95.6% churn acceleration. Interview churned MAX customers within 30 days of cancellation.
+
+**Key questions to ask:**
+- What happened in your first 30 days that didn't work?
+- What competitor feature made you switch?
+- What would've made you stay?
+- Which moment made you question the value?
+
+Don't guess at premium user needs. They'll tell you exactly what's broken.
+
+### 3. Decode PRO's Mid-Year Success
+
+Map those revenue peaks to specific actions:
+
+- Which campaigns were running?
+- What product features launched?
+- Did competitors make pricing changes?
+- Were there industry events or seasonal factors?
+
+Find the pattern, then systematize it.
+
+### 4. Tier-Specific Acquisition Campaigns
+
+Stop treating Google Ads and Facebook traffic the same across all tiers.
+
+**New approach:**
+- BASIC: Brand awareness, educational content, free trial focus
+- PRO: Feature differentiation, use case targeting, integration highlights  
+- MAX: Enterprise messaging, ROI calculators, white-glove onboarding
+
+Different value props, different landing pages, different messaging. Match acquisition strategy to customer economics.
+
+---
+
+## The Metric That Matters Most
+
+> **"The best metric to watch is the one accelerating in the wrong direction."**
+
+In this case, it's MAX tier churn. Revenue growth creates cover, but churn acceleration will eventually win.
+
+You're 12-18 months from MAX tier growth stalling if current trends continue. By the time that shows up in revenue reports, it's too late to fix.
+
+---
+
+## Technical Implementation
+
+This analysis was built in **Power BI** with automated daily updates from:
+- Subscription management databases
+- Transaction logs
+- Marketing attribution platforms
+- Customer lifecycle data
+
+The dashboard doesn't just report what happened. It predicts what's coming by surfacing patterns before they become crises.
+
+That's the difference between reactive reporting and strategic analytics.
+
+---
+
+## Key Takeaway
+
+Growth and retention aren't separate problems. They're two sides of the same business equation.
+
+You can't acquire your way out of a retention crisis. Fix why customers leave before spending more to bring new ones in.
+
+---
+
+**Tools Used:** Power BI, DAX, Marketing Attribution Systems  
+**Data Sources:** 3 years of Nordic market subscription data, transaction logs, multi-channel attribution  
+**Update Frequency:** Automated daily refresh
+
+---
+
+*Want to see the interactive dashboard? [https://app.powerbi.com/groups/me/reports/fdc5131c-a993-4d2c-aace-afd86313b5c6/4a0b90c8fb7989d6f96b?experience=power-bi&clientSideAuth=0]*
+
+---
+
+**Found this analysis useful?**  
+♻️ Repost to help others spot retention risks hiding behind growth metrics.
+
+💬 Comment with your biggest churn challenge. I'll share what's worked in similar situations.
+
+🔔 Follow for more data-driven breakdowns that turn metrics into strategy.
